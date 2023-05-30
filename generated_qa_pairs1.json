@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "question": "Q1. What does the expression \"require('uxp').entrypoints\" doA1. It retrieves the entrypoints of the UXP module.\n\nQ2. What is UXPA2. UXP stands for User Experience Platform, and it is a framework for creating user experiences on Adobe products.\n\nQ3. What type of data does the expression \"require('uxp').entrypoints\" returnA3. It returns an",
+            "answer": ""
+        },
+        {
+            "question": "Q1: What is the API used to add handlers and menu items for entrypoints defined in manifestA1: The API used to add handlers and menu items for entrypoints defined in manifest is called \"entrypoints.setup()\".\n\nQ2: What type of data should be passed to the entrypoints.setup() APIA2: The entrypoints.setup() API should be passed an object containing mainly three objects - 'plugin', 'panels', and",
+            "answer": ""
+        },
+        {
+            "question": "Q1: What type of object does Get panel with specified id returnA1: Get panel with specified id returns a UxpPanelInfo panel object for a valid id and null for an invalid id.\n\nQ2: What is the parameter required for the Get panel with specified id methodA2: The parameter required for the Get panel with specified id method is a String representing the panel id.\n\nQ3: What value does Get panel with specified id return",
+            "answer": ""
+        },
+        {
+            "question": "Q1. What does the get command with specified id returnA1. The get command with specified id returns a UxpCommandInfo command object if the id is valid, and null for an invalid id.\n\nQ2. What type of parameter is required for the get command with specified idA2. The get command with specified id requires a String parameter for the command id.\n\nQ3. How can you tell if a command id is valid",
+            "answer": ""
+        }
+    ]
+}

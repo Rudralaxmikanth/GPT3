@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "question": "What is require('uxp').entrypoints?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "Explain require('uxp').entrypoints.",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "How does require('uxp').entrypoints work?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "What are the details of require('uxp').entrypoints?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "Can you provide information about require('uxp').entrypoints?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "Tell me about require('uxp').entrypoints.",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "What can you say about require('uxp').entrypoints?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "Describe require('uxp').entrypoints.",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "What is the purpose of require('uxp').entrypoints?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "Are there any limitations of require('uxp').entrypoints?",
+      "answer": "entrypoints"
+    },
+    {
+      "question": "What are the use cases for require('uxp').entrypoints?",
+      "answer": "entrypoints"
+    },
+    {
+      "question": "Can you give examples of require('uxp').entrypoints?",
+      "answer": "entrypoints"
+    },
+    {
+      "question": "Is require('uxp').entrypoints related to any other functionality?",
+      "answer": "entrypoints"
+    },
+    {
+      "question": "Can you explain the functionality of require('uxp').entrypoints?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "What are the benefits of using require('uxp').entrypoints?",
+      "answer": "To get an instance"
+    },
+    {
+      "question": "What is setup(entrypoints)?",
+      "answer": "plugin"
+    },
+    {
+      "question": "Explain setup(entrypoints).",
+      "answer": "destroy() {..}\n     }"
+    },
+    {
+      "question": "How does setup(entrypoints) work?",
+      "answer": "destroy() {..}\n     }"
+    },
+    {
+      "question": "What are the details of setup(entrypoints)?",
+      "answer": "{\n     plugin: {\n         create() {..},\n         destroy"
+    },
+    {
+      "question": "Can you provide information about setup(entrypoints)?",
+      "answer": "st { entrypoints } = require(\"uxp\")"
+    },
+    {
+      "question": "Tell me about setup(entrypoints).",
+      "answer": "setup"
+    },
+    {
+      "question": "What can you say about setup(entrypoints)?",
+      "answer": "require"
+    },
+    {
+      "question": "Describe setup(entrypoints).",
+      "answer": "destroy() {..}\n     }"
+    },
+    {
+      "question": "What is the purpose of setup(entrypoints)?",
+      "answer": "require"
+    },
+    {
+      "question": "Are there any limitations of setup(entrypoints)?",
+      "answer": "require"
+    },
+    {
+      "question": "What are the use cases for setup(entrypoints)?",
+      "answer": "panels"
+    },
+    {
+      "question": "Can you give examples of setup(entrypoints)?",
+      "answer": "st { entrypoints } = require"
+    },
+    {
+      "question": "Is setup(entrypoints) related to any other functionality?",
+      "answer": "entrypoints"
+    },
+    {
+      "question": "Can you explain the functionality of setup(entrypoints)?",
+      "answer": "entrypoints.setup"
+    },
+    {
+      "question": "What are the benefits of using setup(entrypoints)?",
+      "answer": "require"
+    },
+    {
+      "question": "What is getPanel(id)?",
+      "answer": "UxpPanelInfo - - panel object"
+    },
+    {
+      "question": "Explain getPanel(id).",
+      "answer": "null for an invalid id"
+    },
+    {
+      "question": "How does getPanel(id) work?",
+      "answer": "null"
+    },
+    {
+      "question": "What are the details of getPanel(id)?",
+      "answer": "id Returns"
+    },
+    {
+      "question": "Can you provide information about getPanel(id)?",
+      "answer": "Get panel with specified id Returns"
+    },
+    {
+      "question": "Tell me about getPanel(id).",
+      "answer": "Get panel with specified id Returns"
+    },
+    {
+      "question": "What can you say about getPanel(id)?",
+      "answer": "null"
+    },
+    {
+      "question": "Describe getPanel(id).",
+      "answer": "UxpPanelInfo"
+    },
+    {
+      "question": "What is the purpose of getPanel(id)?",
+      "answer": "null"
+    },
+    {
+      "question": "Are there any limitations of getPanel(id)?",
+      "answer": "specified id Returns"
+    },
+    {
+      "question": "What are the use cases for getPanel(id)?",
+      "answer": "specified id Returns"
+    },
+    {
+      "question": "Can you give examples of getPanel(id)?",
+      "answer": "Get panel with specified id Returns"
+    },
+    {
+      "question": "Is getPanel(id) related to any other functionality?",
+      "answer": "null"
+    },
+    {
+      "question": "Can you explain the functionality of getPanel(id)?",
+      "answer": "Get panel with specified id Returns"
+    },
+    {
+      "question": "What are the benefits of using getPanel(id)?",
+      "answer": "null"
+    },
+    {
+      "question": "What is getCommand(id)?",
+      "answer": "UxpCommandInfo - - command object"
+    },
+    {
+      "question": "Explain getCommand(id).",
+      "answer": "UxpCommandInfo"
+    },
+    {
+      "question": "How does getCommand(id) work?",
+      "answer": "Get command with specified id Returns"
+    },
+    {
+      "question": "What are the details of getCommand(id)?",
+      "answer": "id Returns"
+    },
+    {
+      "question": "Can you provide information about getCommand(id)?",
+      "answer": "Get command with specified id Returns"
+    },
+    {
+      "question": "Tell me about getCommand(id).",
+      "answer": "Get command with specified id Returns"
+    },
+    {
+      "question": "What can you say about getCommand(id)?",
+      "answer": "null"
+    },
+    {
+      "question": "Describe getCommand(id).",
+      "answer": "UxpCommandInfo"
+    },
+    {
+      "question": "What is the purpose of getCommand(id)?",
+      "answer": "null"
+    },
+    {
+      "question": "Are there any limitations of getCommand(id)?",
+      "answer": "specified id Returns"
+    },
+    {
+      "question": "What are the use cases for getCommand(id)?",
+      "answer": "specified id Returns"
+    },
+    {
+      "question": "Can you give examples of getCommand(id)?",
+      "answer": "Get command with specified id Returns"
+    },
+    {
+      "question": "Is getCommand(id) related to any other functionality?",
+      "answer": "null"
+    },
+    {
+      "question": "Can you explain the functionality of getCommand(id)?",
+      "answer": "Get command with specified id Returns"
+    },
+    {
+      "question": "What are the benefits of using getCommand(id)?",
+      "answer": "null for an invalid"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "question": "Q1:  What is require('uxp').entrypoints?",
+            "answer": "A1: require('uxp').entrypoints is a function used to get an instance.\n\nQ2: How do I use require('uxp').entrypoints"
+        },
+        {
+            "question": "Q1:  What is the purpose of the setup(entrypoints) API?",
+            "answer": "A1: The setup(entrypoints) API is an API for plugin developers to add handlers and menu items for entrypoints defined in a manifest. It can only be called once and there after other APIs can be used to modify menu items. \n\nQ2: What type of data should be passed to the entrypoints parameter"
+        },
+        {
+            "question": "Q1:  What does the getPanel(id) function do?",
+            "answer": "A1: The getPanel(id) function retrieves a UxpPanelInfo panel object with the specified id, or returns null for an invalid id.\n\nQ2: What type of parameter does the getPanel(id) function take"
+        },
+        {
+            "question": "A2: The getPanel(id) function takes a String parameter.\n\nQ3: What is returned by the getPanel(id) function?",
+            "answer": ""
+        },
+        {
+            "question": "Q1:  What does the getCommand(id) function do?",
+            "answer": "A1: The getCommand(id) function retrieves the command with the specified id.\n\nQ2: What is the output of getCommand(id)"
+        },
+        {
+            "question": "A2: The output of getCommand(id) is a UxpCommandInfo command object for a valid id, and null for an invalid id.\n\nQ3: What type of parameter does getCommand(id) require?",
+            "answer": ""
+        }
+    ]
+}
